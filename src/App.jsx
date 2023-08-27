@@ -1,10 +1,7 @@
+import Body from "./Components/Body";
 
 function App() {
-  return (
-    <div className="text-3xl font-bold text-red-800 ">
-      heyy priti
-    </div>
-  );
+  return <Body />;
 }
 
 export default App;
